@@ -16,10 +16,10 @@ Building offensive security tools and breaking things (with permission) under **
 | Project | What it does |
 |---|---|
 | [CyberArmor Red Team Kit](https://github.com/babakizo420/CyberArmor-Red-Team-Kit) | EIP-2612 permit phishing simulation — full attack chain from wallet connect to token drain |
+| [PermitWatch](https://github.com/babakizo420/permit-watch) | Real-time EIP-2612 permit monitor — detects wallet drainer attacks as they happen |
+| [HeaderGuard](https://github.com/babakizo420/headerguard) | Security header auditor + NDPA compliance checker — grades any website A-F |
 | [Burp Auth Tagger](https://github.com/babakizo420/burp-auth-tagger) | Burp Suite extension — auto-tag auth endpoints + flag missing CSRF tokens |
-| [Auth Recon Tagger](https://github.com/babakizo420/blessedops-auth-recon) | Classifies auth endpoints (login/reset/token/admin) from URL lists — JSON output, scope filtering |
-| [E-commerce Recon Template](https://github.com/babakizo420/ecom-recon-shopify-template) | Passive OSINT methodology for e-commerce attack surface mapping |
-| [Vulnerability Disclosure Template](https://github.com/babakizo420/vulnerability-disclosure-template) | Structured report template with CVSS scoring guide |
+| [Auth Recon Tagger](https://github.com/babakizo420/blessedops-auth-recon) | Classifies auth endpoints from URL lists — JSON output, scope filtering |
 
 **Also building:**
 
