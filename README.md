@@ -16,8 +16,10 @@ Building offensive security tools and breaking things (with permission) under **
 | Project | What it does |
 |---|---|
 | [CyberArmor Red Team Kit](https://github.com/babakizo420/CyberArmor-Red-Team-Kit) | EIP-2612 permit phishing simulation — full attack chain from wallet connect to token drain |
-| [Auth Recon Tagger](https://github.com/babakizo420/blessedops-auth-recon) | Classifies auth endpoints (login/reset/token/admin) from URL lists for targeted testing |
+| [Burp Auth Tagger](https://github.com/babakizo420/burp-auth-tagger) | Burp Suite extension — auto-tag auth endpoints + flag missing CSRF tokens |
+| [Auth Recon Tagger](https://github.com/babakizo420/blessedops-auth-recon) | Classifies auth endpoints (login/reset/token/admin) from URL lists — JSON output, scope filtering |
 | [E-commerce Recon Template](https://github.com/babakizo420/ecom-recon-shopify-template) | Passive OSINT methodology for e-commerce attack surface mapping |
+| [Vulnerability Disclosure Template](https://github.com/babakizo420/vulnerability-disclosure-template) | Structured report template with CVSS scoring guide |
 
 **Also building:**
 
@@ -33,6 +35,8 @@ Building offensive security tools and breaking things (with permission) under **
 
 ---
 
-**Find me:**
+**Full portfolio:** [babakizo420.github.io/security-dashboard](https://babakizo420.github.io/security-dashboard/)
+
+---
 
 [GitHub](https://github.com/babakizo420) · [YesWeHack](https://yeswehack.com) · [Upwork](https://www.upwork.com/freelancers/~01d1ef47c8b2a7a6aa)
