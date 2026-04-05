@@ -15,17 +15,17 @@ Building offensive security tools and breaking things (with permission) under **
 
 | Project | What it does |
 |---|---|
-| [CyberArmor Red Team Kit](https://github.com/babakizo420/CyberArmor-Red-Team-Kit) | EIP-2612 permit phishing simulation — full attack chain from wallet connect to token drain |
-| [PermitWatch](https://github.com/babakizo420/permit-watch) | Real-time EIP-2612 permit monitor — detects wallet drainer attacks as they happen |
-| [HeaderGuard](https://github.com/babakizo420/headerguard) | Security header auditor + NDPA compliance checker — grades any website A-F |
-| [Burp Auth Tagger](https://github.com/babakizo420/burp-auth-tagger) | Burp Suite extension — auto-tag auth endpoints + flag missing CSRF tokens |
-| [Auth Recon Tagger](https://github.com/babakizo420/blessedops-auth-recon) | Classifies auth endpoints from URL lists — JSON output, scope filtering |
+| [CyberArmor Red Team Kit](https://github.com/babakizo420/CyberArmor-Red-Team-Kit) | EIP-2612 permit phishing simulation. Full attack chain from wallet connect to token drain |
+| [PermitWatch](https://github.com/babakizo420/permit-watch) | Real-time EIP-2612 permit monitor. Detects wallet drainer attacks as they happen |
+| [HeaderGuard](https://github.com/babakizo420/headerguard) | Security header auditor + NDPA compliance checker. Grades any website A-F |
+| [Burp Auth Tagger](https://github.com/babakizo420/burp-auth-tagger) | Burp Suite extension. Auto-tags auth endpoints + flags missing CSRF tokens |
+| [Auth Recon Tagger](https://github.com/babakizo420/blessedops-auth-recon) | Classifies auth endpoints from URL lists. JSON output, scope filtering |
 
 **Also building:**
 
 | Project | What it does |
 |---|---|
-| [Pejji](https://pejji.com) | Security-first web agency — every site ships with CSP, HSTS, NDPA compliance, CI/CD security gates |
+| [Pejji](https://pejji.com) | Security-first web agency. Every site ships with CSP, HSTS, NDPA compliance, CI/CD security gates |
 
 ---
 
